@@ -63,7 +63,7 @@ The dataset contains Starbucks transaction data, including:
 (Add screenshots of your dashboard here.)
 
 Example:
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot]([images/dashboard.png](https://github.com/Ayush-Gautam11122/Starbucks-Dashboard/blob/main/Starbucks%20dashboard%20ss.jpg))
 
 ---
 
@@ -90,8 +90,8 @@ Example:
 ## 📧 Contact
 **Ayush Gautam**
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/ayush-gautam-5314b1356/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQYsS4ooETie6tUyHYi8fCQ%3D%3D
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Ayush-Gautam11122
 
-Email: your-email@example.com
+Email: ayushgautam11122@gmail.com
