@@ -63,7 +63,7 @@ The dataset contains Starbucks transaction data, including:
 (Add screenshots of your dashboard here.)
 
 Example:
-![Dashboard Screenshot]([images/dashboard.png](https://github.com/Ayush-Gautam11122/Starbucks-Dashboard/blob/main/Starbucks%20dashboard%20ss.jpg))
+![Dashboard Screenshot](https://github.com/Ayush-Gautam11122/Starbucks-Dashboard/blob/main/Starbucks%20dashboard%20ss.jpg)
 
 ---
 
